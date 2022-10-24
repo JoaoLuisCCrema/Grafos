@@ -1,6 +1,6 @@
 # Grafos
 /*
 
-Vou ficar devendo os outros dois aruivos
+Vou ficar devendo os outros dois arquivos
 
 */
