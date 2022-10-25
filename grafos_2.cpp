@@ -14,7 +14,7 @@ que o algoritmo esteja pronto, você deverá mudar o tamanho do gráfico para 10
 o processo de ciração no mínimo 50 vezes, anoteo os tempos de criação apresenteo estas médias 
 para a tabela de adjacencias e para a Listaa de adjacencias. 
 
-Esse nao deu mesmo, nao consegui salvar a matriz que fiz, nem cheguei a fazer lista, o codigo a seguir e o resultado
+Esse nao deu mesmo, nao consegui salvar a lista que fiz, nem cheguei a fazer matriz, o codigo a seguir e o resultado
 de 3 semanas de um aluno tentando entender como funciona essa *****.
 */
 
